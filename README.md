@@ -1,35 +1,19 @@
-🏍️ Proyek Setang Pengukur Suhu
+Proyek Setang Pengukur Suhu
+Proyek ini merupakan implementasi sederhana dari fungsi kategoriSuhu yang digunakan untuk menentukan kategori suhu berdasarkan nilai input:
+Panas → jika suhu ≥ 30
 
-Selamat datang di proyek paling tidak masuk akal:
-Sistem Pengukuran Suhu Berbasis Setang Motor
-(nggak nyambung? Iya, memang konsepnya begitu.)
+Normal → jika 20 ≤ suhu < 30
 
-🔥 Apa Ini?
+Dingin → jika suhu < 20
+Proyek ini juga dilengkapi unit testing otomatis menggunakan JUnit 5 untuk memastikan seluruh logika program berjalan sesuai dengan yang diharapkan.
 
-Ini adalah proyek Java super sederhana yang:
+Pengujian (JUnit)
 
-Tidak ada hubungannya dengan motor 🚫🏍
+Unit test mencakup:
+Pengujian kategori Panas
+Pengujian kategori Normal
+Pengujian kategori Dingin
+Pengujian nilai batas (Boundary Value)
+Pengujian nilai ekstrem (misal suhu negatif)
+Semua test dilakukan untuk memastikan branch coverage dan white-box testing terpenuhi.
 
-Tidak ada setangnya juga 🚫🔧
-
-Tapi tetap bisa mengukur suhu jadi “Panas”, “Normal”, atau “Dingin”.
-
-Kalau kamu tanya kenapa namanya setang…
-Ya random saja. Hidup jangan terlalu serius.
-
-🧪 Cara Kerja
-
-Kamu kasih angka suhu.
-
-Programnya mikir sejenak.
-
-Program bilang:
-
-“Panas” ☀
-
-“Normal” 🌤
-
-“Dingin” ❄
-
-Mirip seperti setang motor yang panas kalau dijemur,
-tapi sekali lagi, ini tidak ada hubungan sama setang.
