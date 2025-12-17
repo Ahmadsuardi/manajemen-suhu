@@ -13,7 +13,5 @@ Unit test mencakup:
 Pengujian kategori Panas
 Pengujian kategori Normal
 Pengujian kategori Dingin
-Pengujian nilai batas (Boundary Value)
-Pengujian nilai ekstrem (misal suhu negatif)
-Semua test dilakukan untuk memastikan branch coverage dan white-box testing terpenuhi.
+
 
