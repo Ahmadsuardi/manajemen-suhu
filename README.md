@@ -1,3 +1,4 @@
+AHMAD SUARDI
 Proyek Setang Pengukur Suhu
 Proyek ini merupakan implementasi sederhana dari fungsi kategoriSuhu yang digunakan untuk menentukan kategori suhu berdasarkan nilai input:
 Panas → jika suhu ≥ 30
