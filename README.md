@@ -12,7 +12,7 @@ Pengujian (JUnit)
 
 Unit test mencakup:
 Pengujian kategori Panas 40 maka hasilnya panas
-Pengujian kategori Normal 19 akan menampilkan NORMAL
-Pengujian kategori Dingin
+Pengujian kategori Normal 23 akan menampilkan NORMAL
+Pengujian kategori Dingin 17 akan menampilkan DINGIN
 
 
