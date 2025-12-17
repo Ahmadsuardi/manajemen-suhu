@@ -15,4 +15,5 @@ Pengujian kategori Panas 40 maka hasilnya panas
 Pengujian kategori Normal 23 akan menampilkan NORMAL
 Pengujian kategori Dingin 17 akan menampilkan DINGIN
 
+Pengujian kategori Dingin 10 akan menampilkan DINGIN
 
