@@ -1,4 +1,4 @@
-AHMAD SUARDI
+
 Proyek Setang Pengukur Suhu
 Proyek ini merupakan implementasi sederhana dari fungsi kategoriSuhu yang digunakan untuk menentukan kategori suhu berdasarkan nilai input:
 Panas → jika suhu ≥ 30
@@ -12,7 +12,7 @@ Pengujian (JUnit)
 
 Unit test mencakup:
 Pengujian kategori Panas 40 maka hasilnya panas
-Pengujian kategori Normal
+Pengujian kategori Normal 19 akan menampilkan NORMAL
 Pengujian kategori Dingin
 
 
