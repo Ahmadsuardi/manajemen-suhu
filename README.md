@@ -10,7 +10,7 @@ Proyek ini juga dilengkapi unit testing otomatis menggunakan JUnit 5 untuk memas
 Pengujian (JUnit)
 
 Unit test mencakup:
-Pengujian kategori Panas
+Pengujian kategori Panas 40 maka hasilnya panas
 Pengujian kategori Normal
 Pengujian kategori Dingin
 
